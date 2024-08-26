@@ -30,7 +30,7 @@ Key Insights from EDA:
 6) Suprisingly, Wednesday through Saturday had the highest number of daily rides, while Sunday and Monday had the least.
 7) Thursday had the highest gross revenue of all days, and Sunday and Monday had the least.
 
-Removed/Imputed outliers trip_distance, fare_amount, duration  
+Removed/Imputed outliers for trip_distance, fare_amount, duration  
 Employeed feature engineering to create new features such as mean_distance, mean_duration, rush_hour, etc.
 
 Model Used: Multiple Linear Regression  
