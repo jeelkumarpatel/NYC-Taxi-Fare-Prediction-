@@ -1,7 +1,7 @@
 # Project Description
 Built a robust predictive model that estimates taxi fares for passangers of NYC yellow taxies before their journey begins. Leveraging historical taxi ride data provided by TLC (Taxi & Limousine Commission) of NYC, the model will analyze various factors such as distance, time of day, traffic conditions, and other relevant variables to provide accurate fare predictions. 
 
-Total Attributes:
+Attributes:
 
 VendorID                 
 tpep_pickup_datetime     
